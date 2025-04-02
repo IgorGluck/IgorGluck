@@ -1,5 +1,10 @@
-<img src="https://readme-typing-svg.demolab.com?color=F70000&lines=Welcome%2C+I'm+Igor+Gluck"/>
-<img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" alt="Pixel Art" align="right"  width="210" >
+<div display:flex; aling="left">
+ <img src="https://readme-typing-svg.demolab.com?color=F70000&lines=Welcome%2C+I'm+Igor+Gluck">
+    
+<div align="right">
+    <img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" alt="Pixel Art" width="200">
+  </span>
+</div><br>
 
 ### Technologies and tools:
 
@@ -15,13 +20,14 @@
 
 ### GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center;>
   <a href="https://github.com/anacristinaneves">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=anacristinaneves&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacristinaneves&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
-</div>
-    
+</div><br>
+
+
 ### Contact
 
 <div> 
