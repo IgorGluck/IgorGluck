@@ -1,7 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?color=F70000&lines=Welcome%2C+I'm+Igor+Gluck"/>
-
-
-<img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Pixel Art" align="right" width="500">
+<img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" alt="Pixel Art" align="right"  width="210" >
 
 ### Technologies and tools:
 
