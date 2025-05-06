@@ -1,5 +1,5 @@
 <div display:flex; aling="left">
- <img src="https://readme-typing-svg.demolab.com?color=F70000&lines=Welcome%2C+I'm+Igor+Gluck">
+ <img src="https://readme-typing-svg.demolab.com?color=0000FF&lines=Welcome%2C+I'm+Igor+Gluck">
     
 <div align="right">
     <img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" alt="Pixel Art" width="200">
