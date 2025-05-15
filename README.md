@@ -1,6 +1,6 @@
 <div display:flex; aling="left">
  <img src="https://readme-typing-svg.demolab.com?color=0000FF&lines=Welcome%2C+I'm+Igor+Gluck">
-    
+   
 <div align="right">
     <img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" alt="Pixel Art" width="200">
   </span>
@@ -17,7 +17,6 @@
   <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
-
 
 ### Contact
 
