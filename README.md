@@ -18,9 +18,6 @@
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
 
-### GitHub Stats
-
-
 
 ### Contact
 
